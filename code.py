@@ -78,3 +78,14 @@ async def on_message(message):
         await message.channel.send('the code is here:')
     if message.content.startswith('straight'):
         await message.channel.send('ur gay')
+    if message.content.startswith('i have an idea'):
+        await message.channel.send('dm those to <@720072050718277654>')
+    if message.content.startswith('light'):
+        await message.channel.send(':rotating_light:')
+    if message.content.startswith('boobs'):
+        await message.channel.send('pls boobies')
+    if message.content.startswith(':weary:'):
+        await message.channel.send('STOP MOANING')
+    if message.content.startswith('no bitch'):
+        await message.channel.send('yes bitch')
+        
